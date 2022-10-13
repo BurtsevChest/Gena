@@ -1,0 +1,128 @@
+@media only screen and (max-width:1487px){
+
+}
+
+@media only screen and (max-width: 1200px){
+.prices_items,.possibility_items{
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.main_link{
+  margin-left: 50px;
+
+}
+.menu{
+  margin-right: 50px;
+}
+.price_item{
+margin: 20px;
+}
+.possibility_item{
+  margin-right: 40px;
+}
+.Became{
+flex-wrap: wrap;
+justify-content: center;
+}
+.became_title{
+  margin-bottom: 40px;
+
+}
+.updates_items{
+  justify-content: space-around;
+}
+.download{
+  flex-wrap: wrap;
+}
+.download_now{
+  width: 100%;
+  text-align: center;
+  padding-top: 80px;
+  margin-left: 0;
+}
+.download_title::after{
+  margin: 40px auto;
+}
+.download_desc{
+  margin: 0 auto;
+}
+.download_link{
+  display: block;
+  margin: 60px auto;
+  padding:20px 0 20px 0;
+  max-width: 200px;
+}
+.site_screen{
+width: 100%;
+}
+.site_screen>img{
+  width: auto;
+}
+.footer{
+  padding: 0 50px;
+}
+.notebook_desc{
+  width: 100%;
+  text-align: center;
+}
+.notebook_title,.notebook_text{
+margin: 0 auto;
+}
+.notebook_title::after{
+  margin: 40px auto;
+}
+.comp{
+  margin-top: 50px;
+height: 600px;
+width: 100%;
+background-position: center;
+}
+.note{
+  flex-wrap: wrap;
+}
+@media only screen and (max-width: 992px){
+.comp{
+  width: 85%;
+  background-size: contain;
+  margin: 0 auto;
+}
+.site_screen{
+  display: none;
+}
+}
+
+@media only screen and (max-width: 768px){
+.service_items{
+  flex-wrap: wrap;
+
+}
+.service_item{
+  margin-bottom: 50px;
+}
+.header{
+  display: block;
+}
+.menu{
+  margin: 40px auto;
+}
+.menu>ul{
+  justify-content: space-around;
+}
+.banner{
+  margin-top: 110px;
+}
+
+}
+
+@media only screen and (max-width: 480px){
+.possibility_item{
+  margin-left: 30px;
+}
+}
+@media only screen and (max-width: 445px){
+
+}
+
+@media only screen and (max-width: 320px){
+
+}
